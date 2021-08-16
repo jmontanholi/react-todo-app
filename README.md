@@ -15,7 +15,7 @@
 To get a local copy up and running follow these simple example steps.
 
 - Clone this repository locally by going to the desired location and using this command: ```git clone git@github.com:jmontanholi/react-todo-app.git```.
-- Run ````npm install``` and then ```npm start```.
+- Run ```npm install``` and then ```npm start```.
 - Open localhost 3000 on your browser to see the website.
 
 
