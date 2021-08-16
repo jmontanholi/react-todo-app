@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jmontanholi/react-todo-app/static/css/main.b2f27594.chunk.css",
+    "main.js": "/jmontanholi/react-todo-app/static/js/main.d82ca10a.chunk.js",
+    "main.js.map": "/jmontanholi/react-todo-app/static/js/main.d82ca10a.chunk.js.map",
+    "runtime-main.js": "/jmontanholi/react-todo-app/static/js/runtime-main.df3ae2a9.js",
+    "runtime-main.js.map": "/jmontanholi/react-todo-app/static/js/runtime-main.df3ae2a9.js.map",
+    "static/js/2.a0831d30.chunk.js": "/jmontanholi/react-todo-app/static/js/2.a0831d30.chunk.js",
+    "static/js/2.a0831d30.chunk.js.map": "/jmontanholi/react-todo-app/static/js/2.a0831d30.chunk.js.map",
+    "index.html": "/jmontanholi/react-todo-app/index.html",
+    "static/css/main.b2f27594.chunk.css.map": "/jmontanholi/react-todo-app/static/css/main.b2f27594.chunk.css.map",
+    "static/js/2.a0831d30.chunk.js.LICENSE.txt": "/jmontanholi/react-todo-app/static/js/2.a0831d30.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df3ae2a9.js",
+    "static/js/2.a0831d30.chunk.js",
+    "static/css/main.b2f27594.chunk.css",
+    "static/js/main.d82ca10a.chunk.js"
+  ]
+}
